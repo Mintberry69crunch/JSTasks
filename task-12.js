@@ -28,7 +28,7 @@ const castArray = (array) => {
   // array.forEach(i => resultArray.push(i.toString()));
   // return resultArray
 
-  // way 3
+  // way 3 (perfectly)
   // return array.map(i => i.toString());
 };
 
